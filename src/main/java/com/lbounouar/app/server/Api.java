@@ -4,7 +4,6 @@ import com.lbounouar.app.models.CountArrondissement;
 import com.lbounouar.app.models.CountGenre;
 import com.lbounouar.app.utils.PropertiesFile;
 import io.undertow.Undertow;
-import io.undertow.server.HttpHandler;
 import io.undertow.server.HttpServerExchange;
 import io.undertow.util.Headers;
 import io.undertow.util.HttpString;
